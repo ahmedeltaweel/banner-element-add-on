@@ -1,0 +1,161 @@
+# Copyright (C) 2017 Teamyea
+# This file is distributed under the GNU General Public License, version 3, http://www.gnu.org/licenses/gpl-3.0.en.html.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fusion builder Banner add 0n 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/init\n"
+"POT-Creation-Date: 2017-02-15 13:08:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Nabeel Molham <n.molham@gmail.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: includes/classes/Backend.php:32
+msgid "Banner"
+msgstr ""
+
+#: includes/classes/Backend.php:41
+msgid "Content"
+msgstr ""
+
+#: includes/classes/Backend.php:42
+msgid "Enter some content for this item."
+msgstr ""
+
+#: includes/classes/Backend.php:47
+msgid "Background"
+msgstr ""
+
+#: includes/classes/Backend.php:48
+msgid "Upload the image you would like to use as background."
+msgstr ""
+
+#: includes/classes/Backend.php:54
+msgid "Pre Title"
+msgstr ""
+
+#: includes/classes/Backend.php:55
+msgid "Pre title will be displayed only if set."
+msgstr ""
+
+#: includes/classes/Backend.php:61
+msgid "Title"
+msgstr ""
+
+#: includes/classes/Backend.php:63
+msgid "Title will be displayed with default value of \"Title\" is not set."
+msgstr ""
+
+#: includes/classes/Backend.php:68
+msgid "Sub Title"
+msgstr ""
+
+#: includes/classes/Backend.php:69
+msgid "Sub title will be displayed only if set."
+msgstr ""
+
+#: includes/classes/Backend.php:75
+msgid "Button Link"
+msgstr ""
+
+#: includes/classes/Backend.php:76
+msgid ""
+"Button will be displayed only if link set correctly (ex: "
+"http://example.com) ."
+msgstr ""
+
+#: includes/classes/Backend.php:82
+msgid "Button Text"
+msgstr ""
+
+#: includes/classes/Backend.php:84
+msgid "Button Text will be displayed with default value \"Button\" if not set."
+msgstr ""
+
+#: includes/classes/Backend.php:89
+msgid "Button Color "
+msgstr ""
+
+#: includes/classes/Backend.php:91
+msgid "Button color will be displayed with default color \"Red\" if not set."
+msgstr ""
+
+#: includes/classes/Backend.php:96
+msgid "Button Hover Color "
+msgstr ""
+
+#: includes/classes/Backend.php:98
+msgid "Button hover color will be displayed with default color \"Red\" if not set."
+msgstr ""
+
+#: includes/classes/Backend.php:103
+msgid "Links Bar Color "
+msgstr ""
+
+#: includes/classes/Backend.php:105
+msgid ""
+"Bottom links bar color will be displayed with default color \"Turquoise\" "
+"if not set."
+msgstr ""
+
+#: includes/classes/Backend.php:117
+msgid "Link Item"
+msgstr ""
+
+#: includes/classes/Backend.php:118
+msgid "Enter Links and labels."
+msgstr ""
+
+#: includes/classes/Backend.php:124
+msgid "Link Item Label"
+msgstr ""
+
+#: includes/classes/Backend.php:125
+msgid "Add Link item label."
+msgstr ""
+
+#: includes/classes/Backend.php:132
+msgid "Link Item Link"
+msgstr ""
+
+#: includes/classes/Backend.php:133
+msgid "Add Link item Link, ex: http://example.com"
+msgstr ""
+
+#: includes/classes/Frontend.php:136
+msgid "Link"
+msgstr ""
+
+#: init.php:113
+msgid "Template <code>%s</code> File not found, calculated path: <code>%s</code>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Fusion builder Banner add 0n"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WP Plugin that add extra banner element to avada fusion builder"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Teamyea"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://teamyea.me/"
+msgstr ""

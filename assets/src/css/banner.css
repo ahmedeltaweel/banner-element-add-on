@@ -1,0 +1,123 @@
+.banner-container {
+	width: 100%;
+	min-width: 300px;
+	background-size: cover !important;
+	font-family: "Open Sans", sans-serif;
+	letter-spacing: .1em;
+}
+
+.banner-container-content {
+	width: 100%;
+	text-align: center;
+	min-width: 270px;
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+h1.banner-title {
+	text-transform: uppercase;
+	line-height: 70px;
+	color: #ffffff;
+	margin: 0 auto;
+	font-size: 60px;
+	font-weight: 400 !important;
+	letter-spacing: normal;
+}
+
+.banner-pre-title {
+	height: 30%;
+	color: rgba(255, 255, 255, 0.7);
+	line-height: 40px;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+
+.banner-post-title {
+	height: 60%;
+	margin-bottom: 30px !important;
+	color: #ffffff;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	letter-spacing: normal;
+}
+
+.sub-title-container, .pre-title-container {
+	overflow-wrap: break-word;
+}
+
+.banner-container .button-link {
+	text-transform: uppercase;
+	color: #ffffff !important;
+	border-radius: 60px;
+	padding: 0 30px;
+	font-size: 13px;
+	font-weight: 600;
+	letter-spacing: .1em;
+	display: inline-block;
+	transition: background-color .1s;
+	line-height: 60px;
+}
+
+.bottom-bar {
+	width: 100%;
+	margin: 0;
+	min-height: 80px;
+	min-width: 300px;
+	font-family: "Open Sans", sans-serif;
+
+}
+
+.bottom-bar > ul {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	min-height: 60px;
+	line-height: 80px;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.links-item {
+	text-align: center;
+	list-style: none;
+	display: inline;
+	margin: 0 20px;
+	overflow: auto;
+	white-space: normal;
+}
+
+.links-item > a {
+	color: #5e7886;
+	font-size: 12px;
+	font-weight: 600;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: .1em;
+	transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.links-item > a:hover {
+	color: #ffffff;
+}
+
+@media screen and (max-width: 750px) {
+
+	.links-item {
+		display: block !important;
+		padding: 3px 0;
+		line-height: 30px;
+		margin: 0 20px;
+	}
+
+	.links-item > a {
+		font-size: 12px;
+		line-height: 40px;
+	}
+
+	.bottom-bar {
+		height: auto;
+		padding: 15px;
+	}
+}
